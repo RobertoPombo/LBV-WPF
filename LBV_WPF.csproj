@@ -7,4 +7,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LBV-Basics\LBV_Basics.csproj" />
+  </ItemGroup>
+
 </Project>
