@@ -11,4 +11,8 @@
     <ProjectReference Include="..\LBV-Basics\LBV_Basics.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>
